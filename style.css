@@ -81,12 +81,32 @@
 	justify-self: center;
   }
   
-  .albumcover {
+  .albumcover1 {
 	position: relative;
 	margin-right: 1em;
 	height: 40px;
 	width: 40px;
-	background-color: rgb(233, 232, 232);
+	background: url("img/Time\ in\ a\ bottle.jpg");
+	align-self: center;
+	border-radius: 5px;
+  }
+
+  .albumcover2 {
+	position: relative;
+	margin-right: 1em;
+	height: 40px;
+	width: 40px;
+	background: url("img/My\ Way.jpg");
+	align-self: center;
+	border-radius: 5px;
+  }
+
+  .albumcover3 {
+	position: relative;
+	margin-right: 1em;
+	height: 40px;
+	width: 40px;
+	background: url("img/beyond\ the\ sea.jpg");
 	align-self: center;
 	border-radius: 5px;
   }
